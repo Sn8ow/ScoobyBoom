@@ -1,0 +1,2 @@
+# ScoobyBoom
+Paid lifetime botnet
